@@ -3,7 +3,7 @@ import React from 'react'
 function Faq() {
   return (
     <main>  
-    <div>Faq</div>
+    <div>Faqssssssssssssssssssss</div>
     </main>  
   )
 }
